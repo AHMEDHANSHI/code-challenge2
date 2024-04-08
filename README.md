@@ -3,7 +3,7 @@ a function that is used to interchange cases in a string
 #2 (Question 2)
 a fuction that is used to create an array of numbers
 #3 (Question 3)
-a function that is used to used find the Prime numbers in an array
+a function that is used to used find the Prime numbers in an array and create an array of prime numbers
 
 #### Date, 2024/03/30
 
